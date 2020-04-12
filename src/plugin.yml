@@ -1,0 +1,9 @@
+name: AlphaStaffBot
+author: plasticono
+description: AlphaMC Staff Bot
+website: alphamc.co
+version: 1.0-ALPHA
+main: co.alphamc.staffbot.Main
+commands:
+  link:
+  code:
